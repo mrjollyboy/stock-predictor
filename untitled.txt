@@ -1,0 +1,9 @@
+notes about program:
+
+for training model:
+- 80% data is training data set
+ - 20% is testing data set
+
+checks first 10 days, then estiamtes 11th day... then checks day 2-11, and estimates daty 12... etc
+
+go to 26:30ish to understand what each part of the code is doing 
